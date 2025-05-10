@@ -1,0 +1,3 @@
+add_library(TTaskSheduler TTaskSheduler.h)
+
+set_target_properties(TTaskSheduler PROPERTIES LINKER_LANGUAGE CXX)
